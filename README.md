@@ -1,5 +1,7 @@
 # Rossmann_Sales_Prediction_Capstone_Project
 
+📋 Problem Statement
+
 Rossmann is a European drug distributor that operates over 3,000 drug stores across seven European countries. Since a lot of drugs come with a short shelf life, i.e., they do not have a long expiry date, it becomes imperative for Rossmann to accurately forecast sales at their individual stores. Currently, the forecasting is taken care of by the store managers, who are tasked with forecasting daily sales for the next six weeks.
 
 As expected, store sales are influenced by many factors, including promotional campaigns, competition, state holidays, seasonality, and locality.
