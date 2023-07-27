@@ -29,10 +29,15 @@ Credit-Card-Default-Prediction - Includes Exploratory Data Analysis and all algo
 📋Algorithms
 
 XG Boosting
+
 Gradient Boosting
+
 Support Vector Machine
+
 Random Forest Classifier
+
 Decision Tree Classifier
+
 Logistic Regression
 
 
